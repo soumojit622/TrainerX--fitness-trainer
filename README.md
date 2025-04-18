@@ -7,7 +7,7 @@
 ---
 
 ## 🌐 **Live Demo**  
-[Check out the live demo here!](https://your-demo-link.com)
+[Check out the live demo here!](https://trainerx.vercel.app/)
 
 ---
 
