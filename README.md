@@ -29,11 +29,11 @@
 | <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/NextJS-Dark.svg" height="24"/> | **Next.js**        | React framework for frontend & server logic     |
 | <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/React-Dark.svg" height="24"/> | **React**          | Component-based library for dynamic UIs         |
 | <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" height="24"/> | **Tailwind CSS**   | Utility-first CSS framework for fast styling     |
-| <img src="https://cdn.jsdelivr.net/gh/shadcn/ui@latest/assets/shadcn-ui-logo.svg" height="24"/> | **Shadcn UI**      | Beautiful, accessible UI components              |
-| <img src="https://avatars.githubusercontent.com/u/80173227?s=200&v=4" height="24"/> | **Clerk**          | Authentication & user management                 |
-| <img src="https://avatars.githubusercontent.com/u/149839173?s=200&v=4" height="24"/> | **Vapi**           | Conversational voice AI platform                 |
-| <img src="https://avatars.githubusercontent.com/u/87984008?s=200&v=4" height="24"/> | **Convex**         | Real-time backend and serverless database        |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Google_Gemini_logo.svg/512px-Google_Gemini_logo.svg.png" height="24"/> | **Gemini AI**      | LLM for generating personalized content          |
+| <img src="https://avatars.githubusercontent.com/u/139895814?v=4" height="24"/> | **Shadcn UI**      | Beautiful, accessible UI components              |
+| <img src="https://www.getmailbird.com/assets/imgs/logos/clearbit/clerk.com.png" height="24"/> | **Clerk**          | Authentication & user management                 |
+| <img src="https://storage.googleapis.com/aiagents_1/agent-logos/1722190046010-bd1a05f5a5309646.png" height="24"/> | **Vapi**           | Conversational voice AI platform                 |
+| <img src="https://media2.dev.to/dynamic/image/width=320,height=320,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Forganization%2Fprofile_image%2F8065%2Fd559bbad-1732-4020-82c4-ad689dbdbc5d.png" height="24"/> | **Convex**         | Real-time backend and serverless database        |
+| <img src="https://static.vecteezy.com/system/resources/thumbnails/046/861/646/small_2x/gemini-icon-on-a-transparent-background-free-png.png" height="24"/> | **Gemini AI**      | LLM for generating personalized content          |
 
 ---
 
