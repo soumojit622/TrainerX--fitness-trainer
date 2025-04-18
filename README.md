@@ -1,6 +1,6 @@
 # 🏋️‍♂️ TrainerX – Your AI-Powered Fitness Companion
 
-**TrainerX** is an innovative fitness platform that combines advanced AI with modern web technology to deliver tailored workout and diet plans. Whether you're a beginner or seasoned gym-goer, TrainerX adapts to your needs, goals, and preferences — all with a sleek and responsive design.
+**TrainerX** is a cutting-edge fitness platform that uses AI to generate personalized workout and diet programs. Whether you’re starting out or deep into your fitness journey, TrainerX tailors every experience to you — all within a beautiful and modern UI.
 
 ![TrainerX Banner](./public/banner.png)
 
@@ -17,49 +17,27 @@
 - 💾 Real-Time Data Storage with Convex  
 - 🎬 On-the-Fly Program Generation  
 - 💻 Modular Layouts using Server & Client Components  
-
----
-
-## 🌟 Key Features
-
-- **AI Fitness Assistant**  
-  Interact with a voice-enabled AI that understands your fitness objectives, physical condition, and preferences.
-
-- **Custom Workout Plans**  
-  Automatically generate workouts tailored to your strength level, past injuries, and long-term goals.
-
-- **Diet Personalization**  
-  Receive meal plans curated for your allergies, dietary restrictions, and health goals.
-
-- **Flexible Login Options**  
-  Authenticate using GitHub, Google, or traditional email/password with Clerk.
-
-- **Program Lifecycle Management**  
-  Create multiple workout programs, with only your most recent plan staying active.
-
-- **Responsive & Clean UI**  
-  Enjoy a visually pleasing experience across devices — from desktops to mobile screens.
+- 📱 Fully Responsive Design  
+- 📊 Scalable Codebase Ready for Growth
 
 ---
 
 ## 🛠️ Tech Stack
 
-| Icon | Technology     | Role                                                |
-|------|----------------|-----------------------------------------------------|
-| <img src="https://cdn.simpleicons.org/nextdotjs/000000" height="24"/> | **Next.js**        | React framework for frontend & server logic     |
-| <img src="https://cdn.simpleicons.org/react/61DAFB" height="24"/>     | **React**          | Component-based library for dynamic UIs         |
-| <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="24"/> | **Tailwind CSS**   | Utility-first CSS framework for fast styling     |
-| <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" height="24"/> | **Shadcn UI**       | Ready-made, beautiful UI components              |
-| <img src="https://avatars.githubusercontent.com/u/80173227?s=200&v=4" height="24"/>   | **Clerk**           | Authentication & user management system         |
-| <img src="https://avatars.githubusercontent.com/u/149839173?s=200&v=4" height="24"/> | **Vapi**            | Conversational AI with voice capabilities       |
-| <img src="https://avatars.githubusercontent.com/u/87984008?s=200&v=4" height="24"/> | **Convex**          | Real-time backend and database service          |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Google_Gemini_logo.svg" height="24"/> | **Gemini AI**       | LLM for personalized fitness/diet generation    |
-
-> 🎨 Icons sourced from [Simple Icons](https://simpleicons.org) and official GitHub orgs.
+| Logo | Technology     | Description                                                |
+|------|----------------|------------------------------------------------------------|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="24"/> | **Next.js**        | React framework for frontend & server logic     |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="24"/> | **React**          | Component-based library for dynamic UIs         |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="24"/> | **Tailwind CSS**   | Utility-first CSS framework for fast styling     |
+| <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" height="24"/> | **Shadcn UI**      | Beautiful, accessible UI components              |
+| <img src="https://avatars.githubusercontent.com/u/80173227?s=200&v=4" height="24"/> | **Clerk**          | Authentication & user management                 |
+| <img src="https://avatars.githubusercontent.com/u/149839173?s=200&v=4" height="24"/> | **Vapi**           | Conversational voice AI platform                 |
+| <img src="https://avatars.githubusercontent.com/u/87984008?s=200&v=4" height="24"/> | **Convex**         | Real-time backend and serverless database        |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Google_Gemini_logo.svg/512px-Google_Gemini_logo.svg.png" height="24"/> | **Gemini AI**      | LLM for generating personalized content          |
 
 ---
 
-## 🖼️ Preview
+## 🖼️ Screenshots
 
 | 💻 Desktop | 📱 Mobile |
 |-----------|-----------|
@@ -67,22 +45,62 @@
 
 ---
 
+## 🌟 Key Features
+
+- **AI Fitness Assistant**  
+  Engage in intelligent conversations with a voice-enabled AI to set fitness goals and build your fitness profile.
+
+- **Customized Workout Plans**  
+  Dynamic plans built to suit your training level, past injuries, and fitness ambitions.
+
+- **Personalized Diet Programs**  
+  Get tailored meal suggestions that match your taste, allergies, and health requirements.
+
+- **Secure & Flexible Authentication**  
+  Sign in using GitHub, Google, or email/password — all backed by Clerk’s secure auth system.
+
+- **Smart Program Management**  
+  Keep track of all your fitness programs. Only the latest one stays active — just like a real fitness schedule.
+
+- **Real-Time Experience**  
+  Built on Convex, all data updates are instant — from program changes to AI conversations.
+
+- **Accessible Anywhere**  
+  Designed to shine across all screen sizes — mobile, tablet, or desktop.
+
+- **Clean Architecture**  
+  Built with reusable components, server actions, and API routes to ensure maintainability.
+
+---
+
 ## 📚 Documentation Links
 
-- [Next.js](https://nextjs.org/docs)  
-- [Clerk](https://clerk.dev/docs)  
-- [Vapi](https://docs.vapi.ai)  
-- [Convex](https://docs.convex.dev)  
-- [Gemini AI](https://deepmind.google/technologies/gemini/)
+- [Next.js Documentation](https://nextjs.org/docs)  
+- [Clerk Docs](https://clerk.dev/docs)  
+- [Vapi Docs](https://docs.vapi.ai)  
+- [Convex Docs](https://docs.convex.dev)  
+- [Gemini AI Docs](https://deepmind.google/technologies/gemini/)
+
+---
+
+## 🧠 Learnings
+
+This project was a deep dive into:
+
+- Voice-driven user interfaces  
+- Modern full-stack architecture with server actions  
+- Realtime reactive data flows  
+- Authentication and session management best practices  
+- AI-driven personalization strategies  
 
 ---
 
 ## 🧑‍💻 Creator
 
-Crafted with care 🤍 by [**Soumojit Banerjee**](https://github.com/SoumojitB)
+Made with ❤️ by [**Soumojit Banerjee**](https://github.com/SoumojitB)
 
 ---
 
 ## 📄 License
 
-Released under the [MIT License](./LICENSE)
+This project is open source and available under the [MIT License](./LICENSE).
