@@ -26,10 +26,10 @@
 
 | Logo | Technology     | Description                                                |
 |------|----------------|------------------------------------------------------------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="24"/> | **Next.js**        | React framework for frontend & server logic     |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="24"/> | **React**          | Component-based library for dynamic UIs         |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="24"/> | **Tailwind CSS**   | Utility-first CSS framework for fast styling     |
-| <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" height="24"/> | **Shadcn UI**      | Beautiful, accessible UI components              |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Nextjs-logo.svg" height="24"/> | **Next.js**        | React framework for frontend & server logic     |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="24"/> | **React**          | Component-based library for dynamic UIs         |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Tailwind_logo.svg" height="24"/> | **Tailwind CSS**   | Utility-first CSS framework for fast styling     |
+| <img src="https://cdn.jsdelivr.net/gh/shadcn/ui@latest/assets/shadcn-ui-logo.svg" height="24"/> | **Shadcn UI**      | Beautiful, accessible UI components              |
 | <img src="https://avatars.githubusercontent.com/u/80173227?s=200&v=4" height="24"/> | **Clerk**          | Authentication & user management                 |
 | <img src="https://avatars.githubusercontent.com/u/149839173?s=200&v=4" height="24"/> | **Vapi**           | Conversational voice AI platform                 |
 | <img src="https://avatars.githubusercontent.com/u/87984008?s=200&v=4" height="24"/> | **Convex**         | Real-time backend and serverless database        |
