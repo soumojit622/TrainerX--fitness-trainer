@@ -33,15 +33,8 @@
 | <img src="https://www.getmailbird.com/assets/imgs/logos/clearbit/clerk.com.png" height="24"/> | **Clerk**          | Authentication & user management                 |
 | <img src="https://storage.googleapis.com/aiagents_1/agent-logos/1722190046010-bd1a05f5a5309646.png" height="24"/> | **Vapi**           | Conversational voice AI platform                 |
 | <img src="https://media2.dev.to/dynamic/image/width=320,height=320,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Forganization%2Fprofile_image%2F8065%2Fd559bbad-1732-4020-82c4-ad689dbdbc5d.png" height="24"/> | **Convex**         | Real-time backend and serverless database        |
-| <img src="https://static.vecteezy.com/system/resources/thumbnails/046/861/646/small_2x/gemini-icon-on-a-transparent-background-free-png.png" height="24"/> | **Gemini AI**      | LLM for generating personalized content          |
+| <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuy9ucswKvd8dPqg9CvrmJiEH5ngED9xLgrQ&s" height="24"/> | **Gemini AI**      | LLM for generating personalized content          |
 
----
-
-## 🖼️ Screenshots
-
-| 💻 Desktop | 📱 Mobile |
-|-----------|-----------|
-| ![Desktop](./public/screenshot-desktop.png) | ![Mobile](./public/screenshot-mobile.png) |
 
 ---
 
